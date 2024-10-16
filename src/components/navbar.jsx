@@ -5,6 +5,7 @@ import { FiX } from 'react-icons/fi';
 import { IoIosSearch } from 'react-icons/io';
 import { FaInstagram } from "react-icons/fa6";
 import { FaYoutube } from "react-icons/fa";
+import { FaDiscord } from "react-icons/fa"; 
 
 
 const StyledNavbar = styled.div`
@@ -220,6 +221,11 @@ export const Navbar = () => {
             <StyledButton>
               <a href="https://www.instagram.com/ansh_mishra5522" target="_blank" rel="noreferrer">
               <FaInstagram/>
+              </a>
+            </StyledButton>
+            <StyledButton>
+              <a href="https://discord.gg/ptu7UeFth8" target="_blank" rel="noreferrer">
+              <FaDiscord />
               </a>
             </StyledButton>
           </RightContent>
