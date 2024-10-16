@@ -21,9 +21,9 @@ const Slideshow = () => {
 
   const data = [
     {
-      id: 21519,
+      id: 41467,
       title: "Anime Movies",
-      videoLink: "https://github.com/devxoshakya/anveshna/raw/main/src/videos/5.webm",
+      videoLink: "https://github.com/devxoshakya/anveshna/raw/main/src/videos/6.webm",
       type: "MOVIE",
       totalEpisodes: 1,
       rating: 85,
@@ -63,7 +63,7 @@ const Slideshow = () => {
       rating: 85,
       duration: 24,
     },{
-      id: 41467,
+      id: 21519,
       title: "Bleach",
       videoLink: "https://github.com/ansh5643224/Skyanime/blob/main/src/videos/6.webm",
       type: "TV",
