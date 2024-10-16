@@ -209,12 +209,12 @@ export const Navbar = () => {
             )}
             <StyledButton>
               <a href='no longer available' target='_blank' rel='noreferrer'>
-              <FaGithub/>
+              <FaYoutube/>
               </a>
             </StyledButton>
             <StyledButton>
               <a href='soon' target='_blank' rel='noreferrer'>
-              <FaXTwitter />
+              <FaInstagram/>
               </a>
             </StyledButton>
           </RightContent>
