@@ -167,9 +167,9 @@ function NewFooter() {
                   label: 'YouTube',
                 },
                 {
-                  href: 'SOON',
-                  Icon: FaGithub,
-                  label: 'Github',
+                  href: 'https://youtube.com/@eternalmelodymagic?si=rLBFFHGQ2cVBtxoq',
+                  Icon: FaYoutube,
+                  label: 'YouTube',
                 },
               ].map(({ href, Icon, label }) => (
                 <ShareButton
