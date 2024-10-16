@@ -217,6 +217,11 @@ export const Navbar = () => {
               <FaInstagram/>
               </a>
             </StyledButton>
+            <StyledButton>
+              <a href="https://www.instagram.com/ansh_mishra5522" target="_blank" rel="noreferrer">
+              <FaInstagram/>
+              </a>
+            </StyledButton>
           </RightContent>
         </TopContainer>
 
