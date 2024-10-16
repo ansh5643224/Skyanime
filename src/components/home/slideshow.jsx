@@ -23,7 +23,7 @@ const Slideshow = () => {
     {
       id: 21519,
       title: "Anime Movies",
-      videoLink: "https://github.com/devxoshakya/anveshna/raw/main/src/videos/6.webm",
+      videoLink: "https://github.com/devxoshakya/anveshna/raw/main/src/videos/5.webm",
       type: "MOVIE",
       totalEpisodes: 1,
       rating: 85,
