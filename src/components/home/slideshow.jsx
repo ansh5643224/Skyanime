@@ -63,7 +63,7 @@ const Slideshow = () => {
       rating: 85,
       duration: 24,
     },{
-      id: 2008655,
+      id: 41467,
       title: "Bleach",
       videoLink: "https://github.com/ansh5643224/Skyanime/blob/main/src/videos/6.webm",
       type: "TV",
