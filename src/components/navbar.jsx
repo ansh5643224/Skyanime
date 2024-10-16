@@ -208,12 +208,12 @@ export const Navbar = () => {
               </StyledButton>
             )}
             <StyledButton>
-              <a href='no longer available' target='_blank' rel='noreferrer'>
+              <a href="https://youtube.com/@eternalmelodymagic?si=rLBFFHGQ2cVBtxoq" target="_blank" rel="noreferrer">
               <FaYoutube/>
               </a>
             </StyledButton>
             <StyledButton>
-              <a href='soon' target='_blank' rel='noreferrer'>
+              <a href="https://www.instagram.com/rishab_morningstar/profilecard/?igsh=MWtpNHA1ZWxwcmRmaA==" target="_blank" rel="noreferrer">
               <FaInstagram/>
               </a>
             </StyledButton>
