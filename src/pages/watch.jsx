@@ -494,7 +494,7 @@ useEffect(() => {
                   '');
   }
   else {
-      document.title = 'FireAnime';
+      document.title = 'SkyAnime';
   }
 }, [animeInfo]);
 
