@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 import { cn } from "../../utils/cn.ts";
 
 // Import the background image
-import backgroundImage from "/mnt/data/OIP.jpg"; // Adjust path accordingly
+import backgroundImage from "https://github.com/ansh5643224/Skyanime/blob/main/src/images/OIP.jpg"; // Adjust path accordingly
 
 export const BackgroundBeams = React.memo(
   ({ className }: { className?: string }) => {
