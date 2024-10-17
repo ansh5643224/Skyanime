@@ -38,7 +38,7 @@ const sections = [
         <strong>Contact Us</strong>: If you have any questions about these
         terms, please contact us at{' '}
         <a href='mailto:ajjubhai0mmmdjdjd@gmail.com' className="font-bold text-indigo-600">
-          proanshpp@gmail.com
+          proanshpp@gmail.com,eternalmelodymagic@gmail.com
         </a>
       </p>
     ),
