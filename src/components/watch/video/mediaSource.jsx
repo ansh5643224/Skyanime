@@ -192,7 +192,7 @@ const MediaSource = ({
       <EpisodeInfoColumn>
         {episodeId ? (
           <>
-            You're watching <strong>Episode {episodeId}</strong>
+            You're watching on SkyAnime <strong>Episode {episodeId}</strong>
             <DownloadLink
               href={downloadLink}
               target="_blank"
