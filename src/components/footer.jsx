@@ -72,7 +72,7 @@ const SocialIconsWrapper = styled.div`
 `;
 
 const FooterLogoImage = styled.img`
-  <FooterLogoImage src="https://raw.githubusercontent.com/ansh5643224/Skyanime/main/src/images/icon.png" alt="Footer Logo" />
+  content: url('../images/rishab.png');
   max-width: 8rem;
   height: auto;
 `;
