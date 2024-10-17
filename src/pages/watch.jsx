@@ -487,7 +487,7 @@ useEffect(() => {
 useEffect(() => {
   if (animeInfo && animeInfo.title) {
       document.title =
-          'FireAnime | ' +
+          'SkyAnime | ' +
               (animeInfo.title.english ||
                   animeInfo.title.romaji ||
                   animeInfo.title.romaji ||
