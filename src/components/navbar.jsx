@@ -181,7 +181,7 @@ export const Navbar = () => {
       <NavbarWrapper>
         <TopContainer>
           <LogoImg title="SKYANIME" to="/home" onClick={() => window.scrollTo(0, 0)}>
-            <img src="https://github.com/proanshbot/Skyanime/blob/main/src/images/icon.png" alt="SKYANIME" className='scale-125 ml-4'/>
+            <img src="https://github.com/ansh5643224/Skyanime/blob/main/src/images/icon.png" alt="SKYANIME" className='scale-125 ml-4'/>
           </LogoImg>
 
           {!isMobileView && (
