@@ -7,7 +7,6 @@ import { FaInstagram } from "react-icons/fa6";
 import { FaYoutube } from "react-icons/fa";
 import { FaDiscord } from "react-icons/fa"; 
 
-
 const StyledNavbar = styled.div`
   position: fixed;
   top: 0;
@@ -16,9 +15,11 @@ const StyledNavbar = styled.div`
   text-align: center;
   margin: 0;
   padding: 1rem;
-  background-color: var(--global-primary-bg-tr);
+  background-image: url('https://github.com/ansh5643224/Skyanime/blob/main/src/images/bk.png'); /* Replace with your anime background URL */
+  background-size: cover;
+  background-position: center;
+  background-color: rgba(0, 0, 0, 0.5); /* Fallback color */
   backdrop-filter: blur(2px);
-  -webkit-backdrop-filter: blur(10px);
   z-index: 100;
   transition: 0.1s ease-in-out;
 
@@ -171,7 +172,6 @@ export const Navbar = () => {
     }
   };
   
-
   const handleClearSearch = () => {
     setSearchQuery('');
   };
