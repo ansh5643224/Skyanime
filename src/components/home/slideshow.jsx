@@ -65,7 +65,7 @@ const Slideshow = () => {
     },{
       id: 269,
       title: "Bleach",
-      videoLink: "https://github.com/ansh5643224/Skyanime/blob/main/src/videos/6.webm",
+      videoLink: "https://raw.githubusercontent.com/ansh5643224/Skyanime/main/src/videos/6.webm",
       type: "TV",
       totalEpisodes: 366,
       rating: 96,
