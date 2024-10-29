@@ -198,7 +198,7 @@ const handleEpisodeSelect = useCallback(async (selectedEpisode) => {
 //UPDATE DOWNLOAD LINK WHEN EPISODE ID CHANGES
 const updateDownloadLink = useCallback(async () => {
   try {
-    const response = await fetch(`https://anveshna-backend.vercel.app/api/v1/download/${animeTitle}-episode-${episodeNumber}`);
+    const response = await fetch(`https://vercel.com/ansh-mishras-projects/aniwatch-apidont-delete/api/v1/download/${animeTitle}-episode-${episodeNumber}`);
     const data = await response.json();
     setDownloadLink(data.download);
   } catch (error) {
